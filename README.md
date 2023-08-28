@@ -13,3 +13,4 @@ getpass: Para mascarar a senha do banco de dados.
 numpy: Para operações matématicas dentro da criptografia das mensagens.
 sympy: Para codificar as recomendações utilizando o método da cifra de hill, através de matrizes.
 
+OBS: Grande parte do código foi escrito antes de aprendermos funções.
