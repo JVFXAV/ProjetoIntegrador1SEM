@@ -3,7 +3,7 @@ Projeto Integrador I (Verificação da Qualidade do Ar)
 
 Neste projeto foram utilizadas as liguagens python e sql, para um sistema que calcule, armazene e descreva os dados inseridos.
 
-O main menu está localizado dentro do terminal do python, desde, conexão com banco de dados, inclusão de valores, alteração, exclusão e classificação.
+O main menu está localizado dentro do terminal, desde, conexão com banco de dados, inclusão de valores, alteração, exclusão e classificação.
 
 Foram utilizadas as bibliotecas:
 
